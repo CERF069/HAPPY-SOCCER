@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6167d048e52f5044a3388e7f7dd8eba, type: 3}
+  m_Name: SkinData
+  m_EditorClassIdentifier: 
+  _skins:
+  - _skinId: PL-1
+    _type: 0
+    _sprite: {fileID: 3674178137043574041, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 2
+  - _skinId: PL-2
+    _type: 0
+    _sprite: {fileID: 665311663765948869, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-3
+    _type: 0
+    _sprite: {fileID: -8049809743814333424, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-4
+    _type: 0
+    _sprite: {fileID: 2827826027503141366, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-4
+    _type: 0
+    _sprite: {fileID: 2827826027503141366, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-4
+    _type: 0
+    _sprite: {fileID: 2827826027503141366, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 1
+  - _skinId: PL-4
+    _type: 0
+    _sprite: {fileID: 2827826027503141366, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-4
+    _type: 0
+    _sprite: {fileID: 2827826027503141366, guid: 7a9f145586ce08e4fabb5ad072e597c0, type: 3}
+    _price: 40
+    _isPurchasable: 1
+    _state: 0
+  - _skinId: PL-DEF
+    _type: 0
+    _sprite: {fileID: -164246194511682038, guid: e0647ab904f4aeb4f9eb417f69729a73, type: 3}
+    _price: 0
+    _isPurchasable: 1
+    _state: 1
+  _defaultCharacterSkinId: PL-DEF
+  _defaultBackgroundSkinId: 
